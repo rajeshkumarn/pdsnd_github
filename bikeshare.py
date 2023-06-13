@@ -51,7 +51,7 @@ def main():
     _continue = 'yes'
     while _continue.lower() in yes:
         # Get user input for city (chicago, new york city, washington)
-        city_number = input("Enter city details(Numeric value 1-3): \n 1. Washington \n 2. New York City \n 3. Chicago \n")
+        city_number = input("Enter city details(Numeric value 1-3): \n 1. Washington \n 2. New York City \n 4. Explore Sample Data \n")
         
         if city_number == "1":
             city = "washington"
