@@ -10,7 +10,7 @@ Bike Share Data Explortion with Python
 Bike Share Data Explortion with Python
 
 ### Files used
-Include the files used
+The data files are used from bikeshare project. The size of the files too large to commit. Hence, added to the .gitignore
 
 ### Credits
 Credits to Udacity bikeshare data
