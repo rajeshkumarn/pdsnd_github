@@ -17,7 +17,7 @@ def load_data(city, month, day):
     print("Input values: City:{}, Month:{}, Day:{}".format(city, month, day))
 
     # Load data file into a dataframe
-    df = pd.read_csv("Project/data/"+cities[city])
+    df = pd.read_csv("data/"+cities[city])
 
     # Convert the Start Time column to datetime
     df['Start Time'] = pd.to_datetime(df['Start Time'])
