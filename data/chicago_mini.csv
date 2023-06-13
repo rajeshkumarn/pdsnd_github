@@ -1,0 +1,22 @@
+Start Time,End Time,Trip Duration,Start Station,End Station,User Type,Gender,Birth Year
+2017-05-29 18:36:27,2017-05-29 18:49:27,780,Columbus Dr & Randolph St,Federal St & Polk St,Subscriber,Male,1991.0
+2017-06-12 19:00:33,2017-06-12 19:24:22,1429,Kingsbury St & Erie St,Orleans St & Merchandise Mart Plaza,Customer,,
+2017-02-13 17:02:02,2017-02-13 17:20:10,1088,Canal St & Madison St,Paulina Ave & North Ave,Subscriber,Female,1982.0
+2017-04-24 18:39:45,2017-04-24 18:54:59,914,Spaulding Ave & Armitage Ave,California Ave & Milwaukee Ave,Subscriber,Male,1966.0
+2017-01-26 15:36:07,2017-01-26 15:43:21,434,Clark St & Randolph St,Financial Pl & Congress Pkwy,Subscriber,Female,1983.0
+2017-06-21 09:43:54,2017-06-21 10:01:31,1057,Ogden Ave & Race Ave,Franklin St & Monroe St,Subscriber,Female,1981.0
+2017-04-24 08:33:31,2017-04-24 08:38:47,316,Clinton St & Washington Blvd,Morgan St & Lake St,Subscriber,Male,1986.0
+2017-03-21 07:23:58,2017-03-21 07:33:17,559,Canal St & Adams St,Michigan Ave & Lake St,Subscriber,Male,1969.0
+2017-01-14 12:16:20,2017-01-14 12:58:17,2517,Wentworth Ave & Archer Ave,Franklin St & Jackson Blvd,Customer,,
+2017-04-06 09:15:52,2017-04-06 09:22:11,379,Canal St & Madison St,Clark St & Lake St,Subscriber,Male,1982.0
+2017-06-13 17:02:44,2017-06-13 17:08:17,333,State St & Kinzie St,Stetson Ave & South Water St,Subscriber,Male,1963.0
+2017-03-09 09:15:39,2017-03-09 09:18:56,197,Clark St & Lake St,Rush St & Hubbard St,Subscriber,Male,1986.0
+2017-03-22 06:54:00,2017-03-22 06:59:02,302,Larrabee St & Division St,Clark St & Elm St,Subscriber,Female,1990.0
+2017-02-21 17:51:52,2017-02-21 17:55:03,191,Ashland Ave & Division St,Damen Ave & Division St,Subscriber,Male,1979.0
+2017-03-13 13:19:26,2017-03-13 13:27:35,489,LaSalle St & Washington St,Sangamon St & Washington Blvd (*),Subscriber,Male,1972.0
+2017-04-04 23:12:25,2017-04-04 23:25:56,811,Sheffield Ave & Webster Ave,Halsted St & Roscoe St,Subscriber,Male,1990.0
+2017-04-05 19:28:40,2017-04-05 19:35:59,439,Orleans St & Merchandise Mart Plaza,Clinton St & Washington Blvd,Subscriber,Male,1957.0
+2017-05-15 15:49:46,2017-05-15 15:57:25,459,Southport Ave & Irving Park Rd,Lincoln Ave & Roscoe St,Subscriber,Male,1962.0
+2017-02-18 15:23:05,2017-02-18 15:54:18,1873,Central St & Girard Ave,Central St & Girard Ave,Subscriber,Male,1982.0
+2017-04-02 13:21:17,2017-04-02 13:30:55,578,Kingsbury St & Kinzie St,Wells St & Elm St,Subscriber,Male,1965.0
+2017-06-20 11:38:18,2017-06-20 11:51:54,816,State St & Pearson St,Clinton St & Madison St,Subscriber,Male,1987.0
