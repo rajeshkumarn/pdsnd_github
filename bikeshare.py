@@ -1,8 +1,6 @@
 import pandas as pd
 
-cities = { 'chicago': 'chicago.csv',
-              'new york city': 'new_york_city.csv',
-              'washington': 'washington.csv' }
+cities = { 'chicago': 'chicago.csv','chicago_mini': 'chicago_mini.csv','new york city': 'new_york_city.csv','washington': 'washington.csv' }
 
 #month series
 months = pd.Series(['january', 'february', 'march', 'april', 'may', 'june','july','august','september','october','november','december'], index=[1,2,3,4,5,6,7,8,9,10,11,12])
@@ -50,7 +48,7 @@ def main():
 
     _continue = 'yes'
     while _continue.lower() in yes:
-        # Get user input for city (chicago, new york city, washington)
+        # Get user input for city (chicago, new york city, washington, Explore Sample Data)
         city_number = input("Enter city details(Numeric value 1-3): \n 1. Washington \n 2. New York City \n 3. Chicago \n 4. Explore Sample Data \n")
         
         if city_number == "1":
@@ -59,8 +57,10 @@ def main():
             city = "new york city"
         elif  city_number == "3":
             city = "chicago"
+        elif  city_number == "4":
+            city = "chicago_mini"
         else:
-            print("Invalid input. Please enter a valid city number(1-3) and try again \n")
+            print("Invalid input. Please enter a valid city number(1-4) and try again \n")
             continue
         
         # Get user input for month 1-12
