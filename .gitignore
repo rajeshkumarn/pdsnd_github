@@ -1,5 +1,4 @@
 .github/**
-data/new_york_city.csv 
-data/washington.csv
 data/chicago.csv
-data/chicago_mini.csv
+data\new_york_city.csv
+data\washington.csv
