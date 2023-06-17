@@ -1,2 +1,2 @@
 .github/**
-data/*.csv
+data/*.csv #ignoring all the .csv files
